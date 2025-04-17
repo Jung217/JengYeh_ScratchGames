@@ -12,7 +12,7 @@ A textbook to teach students about making games with scratch  at JENG YEH elemen
 | 5    | 射擊外星人 |
 | 6    | 臺灣地圖拼圖 |
 | 7    | 彈球遊戲 |
-| 8    |  |
+| 8    | Flappy Cat |
 | 9    |  |
 | 10   |  |
 | 11   |  |
