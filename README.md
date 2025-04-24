@@ -13,11 +13,11 @@ A textbook to teach students about making games with scratch  at JENG YEH elemen
 | 6    | [臺灣地圖拼圖](/week6) |
 | 7    | [彈球遊戲](/week7) |
 | 8    | [Flappy Cat](/week8) |
-| 9    |  |
-| 10   |  |
-| 11   |  |
-| 12   |  |
-| 13   |  |
+| 9    | [掏漁樂](/week9) |
+| 10   | [](/week10) |
+| 11   | [](/week11) |
+| 12   | [](/week12) |
+| 13   | 成果發表 |
 
 ## 編輯器
 - [Scratch](https://scratch.mit.edu/)
