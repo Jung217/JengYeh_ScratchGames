@@ -14,7 +14,7 @@ A textbook to teach students about making games with scratch  at JENG YEH elemen
 | 7    | [彈球遊戲](/week7) |
 | 8    | [Flappy Cat](/week8) |
 | 9    | [掏漁樂](/week9) |
-| 10   | [](/week10) |
+| 10   | [射氣球](/week10) |
 | 11   | [](/week11) |
 | 12   | [](/week12) |
 | 13   | 成果發表 |
