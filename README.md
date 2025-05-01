@@ -16,7 +16,7 @@ A textbook to teach students about making games with scratch  at JENG YEH elemen
 | 9    | [掏漁樂](/week9) |
 | 10   | [射氣球](/week10) |
 | 11   | [小雞下樓梯](/week11) |
-| 12   | [](/week12) |
+| 12   | [貪食蛇](/week12) |
 | 13   | 成果發表 |
 
 ## 編輯器
